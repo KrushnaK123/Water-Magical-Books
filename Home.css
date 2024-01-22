@@ -2334,6 +2334,9 @@ html,body{
         flex-direction: column;
     }
     .products h2{
+         margin: auto;
+        display: flex;
+        justify-content: center;
         text-align: center !important;
         padding: 0rem 0rem;
         font-size: 1.3rem;
