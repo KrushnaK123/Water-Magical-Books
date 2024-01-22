@@ -2227,7 +2227,7 @@ html,body{
     }
     .stext p{
         font-size: 14px;
-        width: 70dvw;
+       width: 93dvw;
     }
     .package-text1{
         display: flex;
@@ -2244,7 +2244,7 @@ html,body{
     }
     .icontext p{
         font-size: 16px;
-        width: 71dvw;
+        width: 93dvw;
         margin: 0px;
     }
     .icontext{
@@ -2261,7 +2261,7 @@ html,body{
     .package-text1 p{
         margin-top: 1rem;
         font-size: 14px;
-       width: 71dvw;
+        width: 93dvw;
     }
     
     .clicktext span{
