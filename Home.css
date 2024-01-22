@@ -2265,8 +2265,8 @@ html,body{
     
     .package-text1 span {
         font-size: 14px;
-        display: flex;
-        margin: auto;
+/*         display: flex;
+        margin: auto; */
         width: 93dvw;
         padding: 0rem;
         margin-top: 1rem !important;
@@ -2276,7 +2276,7 @@ html,body{
     .package-text1 p{
         margin-top: 1rem;
         font-size: 14px;
-        width: 81dvw;
+       width: 71dvw;
         color: #121212bf;
     }
     
