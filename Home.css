@@ -1745,8 +1745,7 @@ html,body{
     width: 33dvw;
     font-family: sans-serif;
     font-weight: 550;
-    letter-spacing: .5px;
-    color: #121212bf;    
+    letter-spacing: .5px;  
 }
 
 .package-text span{
@@ -1755,7 +1754,6 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-   color: #121212bf !important;
     /* padding: 2rem; */
 
 }
@@ -1766,7 +1764,7 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-    color: #121212bf !important;
+   
     margin: 1px;
 }
 .icontext{
@@ -1780,7 +1778,7 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-    color: #121212bf !important;
+   
 }
 
 .package-text1 p{
@@ -1790,7 +1788,7 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-    color: #121212bf !important;
+    
 }
 
 .clicktext span{
@@ -1811,7 +1809,6 @@ html,body{
     font-size: 17px;
     font-family: sans-serif;
     font-weight: 600;
-    color: rgb(37, 36, 36);   
 }
 .ourtext p{
     font-size: 16px;
@@ -1819,7 +1816,6 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-    color: #121212bf !important;
 }
 .About h1{
     letter-spacing: 1px;
@@ -1827,7 +1823,6 @@ html,body{
     font-size: 30px;
     font-family: sans-serif;
     font-weight: 600;
-    color: rgb(37, 36, 36); 
 }
 
 .About p{
@@ -1838,7 +1833,6 @@ html,body{
     font-family: sans-serif;
     font-weight: 550;
     letter-spacing: .5px;
-    color: #121212bf !important;
 }
 .productimg img{
     display: flex;
@@ -2199,8 +2193,6 @@ html,body{
         width: 89dvw;
         padding: 0rem 1rem;
         line-height: 25px;
-        color: #121212bf;
-       
     }
     .colorbackg img{
         height: 175px;
@@ -2236,7 +2228,6 @@ html,body{
     .stext p{
         font-size: 14px;
         width: 77dvw;
-        color: #121212bf;
     }
     .package-text1{
         display: flex;
@@ -2250,14 +2241,11 @@ html,body{
         margin: auto;
         width: 93dvw;
         padding: 0rem;
-        color: #121212bf;
-        
     }
     .icontext p{
         font-size: 16px;
         width: 71dvw;
         margin: 0px;
-        color: #121212bf;
     }
     .icontext{
         padding: 1rem 0rem;
@@ -2265,19 +2253,15 @@ html,body{
     
     .package-text1 span {
         font-size: 14px;
-/*         display: flex;
-        margin: auto; */
         width: 93dvw;
         padding: 0rem;
         margin-top: 1rem !important;
-        color: #121212bf;
     }
     
     .package-text1 p{
         margin-top: 1rem;
         font-size: 14px;
        width: 71dvw;
-        color: #121212bf;
     }
     
     .clicktext span{
@@ -2287,7 +2271,6 @@ html,body{
         display: flex;
         margin: auto;
         text-align: center;
-        color: #121212bf;
     }
     .ourtext{
         margin-top: 2rem !important;
@@ -2304,7 +2287,6 @@ html,body{
     .ourtext p{
         font-size: 14px;
         width: 100dvw;
-        color: #121212bf;
     }
     .About h1{
         padding: 0px 30px;
@@ -2320,7 +2302,6 @@ html,body{
         margin-top: 1rem;
         font-size: 14px;
         width: 96dvw;
-        color: #121212bf;
     }
     .productimg img{
         height: 270px;
