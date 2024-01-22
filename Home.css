@@ -660,6 +660,7 @@ html,body{
     .m-w-p-b{
         height:auto;
         width:100%;
+        
     }
    
     .magical-water{
@@ -1937,6 +1938,15 @@ html,body{
     cursor: pointer;
     border-radius: 4px;
 }
+.bookimg img{
+    height: 112px !important;
+    width: auto !important;
+}
+.booktext img{
+    height: 17rem !important;
+    width: auto !important;
+}
+
 
 
 @media only screen and (min-Width:250px) and (max-Width:349px) {  
@@ -2186,7 +2196,7 @@ html,body{
     .colorbackg p{
         margin: auto !important;
         font-size: 14px;
-        width: 33dvw;
+        width: 89dvw;
         padding: 0rem 1rem;
         line-height: 25px;
         color: #121212bf;
@@ -2201,14 +2211,14 @@ html,body{
     .booktext h1{
         margin: auto;
         display: flex;
-        font-size: 1.3rem;
+        font-size: 2rem;
         padding: 20px 10px;
     }
     
     .big-booktext h1{
         margin: auto;
         display: flex;
-        font-size: 1.6rem;
+        font-size: 2.5rem;
         padding: 20px 10px;
     }
     .bookimg{
@@ -2313,7 +2323,7 @@ html,body{
         color: #121212bf;
     }
     .productimg img{
-        height: 178px;
+        height: 243px;
         width: auto;
     }
     .products{
@@ -2380,9 +2390,29 @@ html,body{
         
         height: 111px;
         width: 175px;
-        margin-left: 0rem !important;
-        
+        margin-left: 0rem !important;   
     }
+    .bookimg img{
+        height: 248px !important;
+        width: auto !important;
+    }
+    .booktext img{
+        height: 330px !important;
+        width: auto !important;
+    }
+    .booktext1 img{
+        height: 19rem !important;
+        width: auto !important;
+    }
+    .bookimg1 img{
+        height: 323px;
+        width: auto;
+    }
+    .bookimg2 img{
+        height: 337px;
+        width: auto;
+    }
+    
  }
 
    
